@@ -1,2 +1,4 @@
-# Sandbox-Hello-World
+# Sandbox Hello World
 Demonstrating GitHub to Students
+
+Mr. Mercer is sic & phat
